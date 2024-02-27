@@ -1,0 +1,2 @@
+# verygoodcode
+About code practice
